@@ -16,6 +16,5 @@ It uses dictionary and list data types for storing records.
 ## Future Scope
 1. needs to store the record in database or in a file
 
-## Project Status
-- working in progress
-- pull request are welcomed
+
+---***suggestions / pull requests are welcomed***---
