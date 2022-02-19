@@ -14,5 +14,8 @@ It uses dictionary and list data types for storing records.
 6. displayLendRecords
 
 ## Future Scope
-Currently working on feature that uses file handling to export the records in text file
+1. needs to store the record in database or in a file
 
+## Project Status
+- working in progress
+- pull request are welcomed
