@@ -1,6 +1,10 @@
 # Library Management System
 Library Management System is a command-line application using python.
-Made to get a grip on Class and Objects (OOPs concept) in Pythom
+
+
+Made to get a grip on Class and Objects (OOPs concept) in Python
+
+
 Use for maintaining records of available books and of books that have been lent to someone.
 
 ## Description
